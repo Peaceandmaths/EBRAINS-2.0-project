@@ -1,0 +1,2 @@
+ERROR:root:Error during registration: module 'SimpleITK' has no attribute 'GetDefaultParameterMap'
+ERROR:root:Error during registration: module 'SimpleITK' has no attribute 'GetDefaultParameterMap'
