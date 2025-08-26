@@ -1,3 +1,5 @@
+### Doens't work well, better use 3DSlicer 
+
 import SimpleITK as sitk
 import matplotlib.pyplot as plt
 import os
